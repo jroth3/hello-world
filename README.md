@@ -1,2 +1,9 @@
 # hello-world
-Introduction to GitHub - testing
+
+### A Medium Sized Heading Placement
+
+Introduction to GitHub - Test repo for ***Studio III***
+
+## Owned by K-State Salina
+
+**I own nothing :)**
